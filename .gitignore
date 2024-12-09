@@ -158,4 +158,5 @@ dmypy.json
 cython_debug/
 
 # Data in 'data' folder
-/data/*.csv
+/data/coded_data/*.csv
+/data/labeled_data/*.csv
